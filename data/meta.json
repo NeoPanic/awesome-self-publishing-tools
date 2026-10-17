@@ -1,14 +1,66 @@
-{"categories":[
-{"id":"write","title":"Writing and planning","anchor":"writing-and-planning","blurb":"Where the manuscript gets written."},
-{"id":"edit","title":"Editing and proofreading","anchor":"editing-and-proofreading","blurb":"Tools that catch errors and make text clearer. They do not replace a human editor."},
-{"id":"format","title":"Formatting and ebook files","anchor":"formatting-and-ebook-files","blurb":"Turn a manuscript into ebook and print-ready files, and check them."},
-{"id":"design","title":"Covers and graphics","anchor":"covers-and-graphics","blurb":"Design tools for covers, mockups and promo images."},
-{"id":"dist","title":"Distribution, print and ISBNs","anchor":"distribution-print-and-isbns","blurb":"Where your book is sold or printed. Most take a cut of sales instead of charging upfront."},
-{"id":"audio","title":"Audiobooks","anchor":"audiobooks","blurb":"Narration and audiobook production."},
-{"id":"research","title":"Amazon keyword and niche research","anchor":"amazon-keyword-and-niche-research","blurb":"Tools that help pick niches, keywords and categories. They estimate. They do not guarantee sales."},
-{"id":"market","title":"Marketing, reviews and reader delivery","anchor":"marketing-reviews-and-reader-delivery","blurb":"Get advance readers, deliver files to readers, run promotions."},
-{"id":"direct","title":"Author websites and direct sales","anchor":"author-websites-and-direct-sales","blurb":"Sell from your own site and keep more of each sale."},
-{"id":"oss","title":"Open-source helpers","anchor":"open-source-helpers","blurb":"Free tools on GitHub. Check each licence and its limits."}
-],
-"header":"# Awesome Self-Publishing Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)\n\n> Tools for self-published authors and small publishers: writing, formatting, covers, distribution, audio, research and marketing. Free and paid, with pricing marked honestly.\n\n**How pricing is marked**\n\n| Label | Meaning |\n|---|---|\n| `free` | No cost to use. |\n| `freemium` | A free tier exists. More features cost money. |\n| `paid` | You pay to use it (one-time or subscription). A free trial may exist. |\n| `revenue-share` | No or low upfront cost. The platform keeps a share of each sale. |\n\nPrices were read from each tool's own page on **2026-10-17** and change often. Check the linked page before you buy. No affiliate links. Tools are listed on merit, including the maintainer's own (marked). Rules are in [CONTRIBUTING.md](CONTRIBUTING.md).\n",
-"footer":"## How to choose\n\n- **First book, little money:** Reedsy Studio or Calibre/Pandoc for files, Kindle Previewer to check, KDP plus Kobo for sales. Add Affinity for the cover.\n- **On a Mac and publishing often:** Vellum is a one-time cost and widely used. Atticus works on more systems.\n- **Want to reach stores beyond Amazon:** use KDP for Amazon, then an aggregator (Draft2Digital or PublishDrive) or go direct to Kobo, Apple and Google. Compare fees on each page first.\n- **Need your own ISBN:** buy from your national agency. In the US that is Bowker. Check what your distributor offers before paying.\n- **Choosing KDP niches:** use one research tool and treat the numbers as estimates.\n- **Want more of each sale:** sell from your own site. Print on demand and payment fees still apply.\n- **Audio:** local text-to-speech tools make drafts. Check licences and store rules before selling AI-voiced audio.\n\n## Contributing\n\nSee [CONTRIBUTING.md](CONTRIBUTING.md). One tool per pull request. The price must come from the tool's own page.\n\n## About\n\nMaintained by [@devanasolver](https://github.com/devanasolver), who also builds [BookFolio](https://bookfolio-demo.pages.dev/guide), a WordPress theme for author websites. Listings follow the rules in CONTRIBUTING, not ownership.\n"}
+{
+ "categories": [
+  {
+   "id": "write",
+   "title": "Writing and planning",
+   "anchor": "writing-and-planning",
+   "blurb": "Where the manuscript gets written."
+  },
+  {
+   "id": "edit",
+   "title": "Editing and proofreading",
+   "anchor": "editing-and-proofreading",
+   "blurb": "Tools that catch errors and make text clearer. They do not replace a human editor."
+  },
+  {
+   "id": "format",
+   "title": "Formatting and ebook files",
+   "anchor": "formatting-and-ebook-files",
+   "blurb": "Turn a manuscript into ebook and print-ready files, and check them."
+  },
+  {
+   "id": "design",
+   "title": "Covers and graphics",
+   "anchor": "covers-and-graphics",
+   "blurb": "Design tools for covers, mockups and promo images."
+  },
+  {
+   "id": "dist",
+   "title": "Distribution, print and ISBNs",
+   "anchor": "distribution-print-and-isbns",
+   "blurb": "Where your book is sold or printed. Most take a cut of sales instead of charging upfront."
+  },
+  {
+   "id": "audio",
+   "title": "Audiobooks",
+   "anchor": "audiobooks",
+   "blurb": "Narration and audiobook production."
+  },
+  {
+   "id": "research",
+   "title": "Amazon keyword and niche research",
+   "anchor": "amazon-keyword-and-niche-research",
+   "blurb": "Tools that help pick niches, keywords and categories. They estimate. They do not guarantee sales."
+  },
+  {
+   "id": "market",
+   "title": "Marketing, reviews and reader delivery",
+   "anchor": "marketing-reviews-and-reader-delivery",
+   "blurb": "Get advance readers, deliver files to readers, run promotions."
+  },
+  {
+   "id": "direct",
+   "title": "Author websites and direct sales",
+   "anchor": "author-websites-and-direct-sales",
+   "blurb": "Sell from your own site and keep more of each sale."
+  },
+  {
+   "id": "oss",
+   "title": "Open-source helpers",
+   "anchor": "open-source-helpers",
+   "blurb": "Free tools on GitHub. Check each licence and its limits."
+  }
+ ],
+ "header": "<h1 align=\"center\">Awesome Self-Publishing Tools</h1>\n\n<p align=\"center\"><a href=\"https://bookfolio-demo.pages.dev/guide\"><img src=\"assets/banner.png\" alt=\"Awesome Self-Publishing Tools. Click here to sell books from your own site with BookFolio.\" width=\"100%\"></a></p>\n\n<p align=\"center\">\n<a href=\"https://awesome.re\"><img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\"></a>\n<img src=\"https://img.shields.io/badge/PRs-welcome-brightgreen\" alt=\"PRs welcome\">\n<img src=\"https://img.shields.io/badge/license-CC0--1.0-blue\" alt=\"License CC0 1.0\">\n<a href=\"https://github.com/devanasolver/awesome-self-publishing-tools/commits/main\"><img src=\"https://img.shields.io/github/last-commit/devanasolver/awesome-self-publishing-tools\" alt=\"Last commit\"></a>\n</p>\n\n<p align=\"center\">\n<a href=\"https://github.com/devanasolver\"><img src=\"https://img.shields.io/badge/Follow-@devanasolver-181717?style=for-the-badge&logo=github\" alt=\"Follow on GitHub\"></a>\n<a href=\"https://www.youtube.com/@BookFolioTheme\"><img src=\"https://img.shields.io/badge/YouTube-@BookFolioTheme-ff0000?style=for-the-badge&logo=youtube\" alt=\"BookFolio on YouTube\"></a>\n<a href=\"https://github.com/devanasolver/awesome-self-publishing-tools/stargazers\"><img src=\"https://img.shields.io/github/stars/devanasolver/awesome-self-publishing-tools?style=for-the-badge&logo=github&label=Star%20this%20list\" alt=\"Star this list\"></a>\n</p>\n\n> Tools for self-published authors and small publishers: writing, formatting, covers, distribution, audio, research and marketing. Free and paid, with pricing marked honestly.\n\n**How pricing is marked**\n\n| Label | Meaning |\n|---|---|\n| `free` | No cost to use. |\n| `freemium` | A free tier exists. More features cost money. |\n| `paid` | You pay to use it (one-time or subscription). A free trial may exist. |\n| `revenue-share` | No or low upfront cost. The platform keeps a share of each sale. |\n\nPrices were read from each tool's own page on **2026-10-17** and change often. Check the linked page before you buy. No affiliate links. Tools are listed on merit, including the maintainer's own (marked). Rules are in [CONTRIBUTING.md](CONTRIBUTING.md).\n",
+ "footer": "## How to choose\n\n- **First book, little money:** Reedsy Studio or Calibre/Pandoc for files, Kindle Previewer to check, KDP plus Kobo for sales. Add Affinity for the cover.\n- **On a Mac and publishing often:** Vellum is a one-time cost and widely used. Atticus works on more systems.\n- **Want to reach stores beyond Amazon:** use KDP for Amazon, then an aggregator (Draft2Digital or PublishDrive) or go direct to Kobo, Apple and Google. Compare fees on each page first.\n- **Need your own ISBN:** buy from your national agency. In the US that is Bowker. Check what your distributor offers before paying.\n- **Choosing KDP niches:** use one research tool and treat the numbers as estimates.\n- **Want more of each sale:** sell from your own site. Print on demand and payment fees still apply.\n- **Audio:** local text-to-speech tools make drafts. Check licences and store rules before selling AI-voiced audio.\n\n## Contributing\n\nSee [CONTRIBUTING.md](CONTRIBUTING.md). One tool per pull request. The price must come from the tool's own page.\n\n## About\n\nMaintained by [@devanasolver](https://github.com/devanasolver), who also builds [BookFolio](https://bookfolio-demo.pages.dev/guide), a WordPress theme for author websites. Listings follow the rules in CONTRIBUTING, not ownership.\n"
+}

@@ -1,4 +1,19 @@
-# Awesome Self-Publishing Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<h1 align="center">Awesome Self-Publishing Tools</h1>
+
+<p align="center"><a href="https://bookfolio-demo.pages.dev/guide"><img src="assets/banner.png" alt="Awesome Self-Publishing Tools. Click here to sell books from your own site with BookFolio." width="100%"></a></p>
+
+<p align="center">
+<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="PRs welcome">
+<img src="https://img.shields.io/badge/license-CC0--1.0-blue" alt="License CC0 1.0">
+<a href="https://github.com/devanasolver/awesome-self-publishing-tools/commits/main"><img src="https://img.shields.io/github/last-commit/devanasolver/awesome-self-publishing-tools" alt="Last commit"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/devanasolver"><img src="https://img.shields.io/badge/Follow-@devanasolver-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"></a>
+<a href="https://www.youtube.com/@BookFolioTheme"><img src="https://img.shields.io/badge/YouTube-@BookFolioTheme-ff0000?style=for-the-badge&logo=youtube" alt="BookFolio on YouTube"></a>
+<a href="https://github.com/devanasolver/awesome-self-publishing-tools/stargazers"><img src="https://img.shields.io/github/stars/devanasolver/awesome-self-publishing-tools?style=for-the-badge&logo=github&label=Star%20this%20list" alt="Star this list"></a>
+</p>
 
 > Tools for self-published authors and small publishers: writing, formatting, covers, distribution, audio, research and marketing. Free and paid, with pricing marked honestly.
 
