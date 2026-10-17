@@ -120,8 +120,8 @@ Get advance readers, deliver files to readers, run promotions.
 
 Sell from your own site and keep more of each sale.
 
-- [Author Royalty Calculator (by the maintainer)](https://github.com/devanasolver/author-royalty-calculator) `free` - Command-line tool that compares what you keep per sale on KDP, Kobo, Apple, B&N and your own site. **Price:** Free and open source (MIT).
 - [BookFolio (by the maintainer)](https://bookfolio-demo.pages.dev/guide) `freemium` - WordPress theme to sell your books from your own author website. Needs WooCommerce. **Price:** Free tier: one book and the first 25 newsletter signups. Pro is a paid upgrade; see the buy page for the current price.
+- [KDP Toolkit (by the maintainer)](https://github.com/devanasolver/kdp-toolkit) `free` - Command-line toolkit for Amazon KDP: print-ready interior PDF, cover wrap with spine math, preflight checks, keyword ideas, metadata checks and royalty math. **Price:** Free and open source (MIT).
 
 ## Open-source helpers
 
@@ -147,7 +147,3 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). One tool per pull request. The price mus
 ## About
 
 Maintained by [@devanasolver](https://github.com/devanasolver), who also builds [BookFolio](https://bookfolio-demo.pages.dev/guide), a WordPress theme for author websites. Listings follow the rules in CONTRIBUTING, not ownership.
-
-## Support
-
-If you find this project useful, [buy me a coffee](https://buymeacoffee.com/isaac49).
