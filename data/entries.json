@@ -307,12 +307,12 @@
   },
   {
     "category": "direct",
-    "name": "Author Royalty Calculator (by the maintainer)",
-    "url": "https://github.com/devanasolver/author-royalty-calculator",
+    "name": "KDP Toolkit (by the maintainer)",
+    "url": "https://github.com/devanasolver/kdp-toolkit",
     "price": "free",
     "price_note": "Free and open source (MIT).",
-    "description": "Command-line tool that compares what you keep per sale on KDP, Kobo, Apple, B&N and your own site.",
-    "price_checked": "2026-10-17"
+    "description": "Command-line toolkit for Amazon KDP: print-ready interior PDF, cover wrap with spine math, preflight checks, keyword ideas, metadata checks and royalty math.",
+    "price_checked": "2026-10-18"
   },
   {
     "category": "oss",
