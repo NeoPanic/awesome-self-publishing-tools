@@ -147,3 +147,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). One tool per pull request. The price mus
 ## About
 
 Maintained by [@devanasolver](https://github.com/devanasolver), who also builds [BookFolio](https://bookfolio-demo.pages.dev/guide), a WordPress theme for author websites. Listings follow the rules in CONTRIBUTING, not ownership.
+
+## Support
+
+If you find this project useful, [buy me a coffee](https://buymeacoffee.com/isaac49).
