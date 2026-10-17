@@ -1,0 +1,335 @@
+[
+  {
+    "category": "write",
+    "name": "Atticus",
+    "url": "https://www.atticus.io/",
+    "price": "paid",
+    "price_note": "$147 one-time, includes future updates (per their page).",
+    "description": "Writing and book formatting in one app, for ebooks and print.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "write",
+    "name": "Scrivener",
+    "url": "https://www.literatureandlatte.com/scrivener/overview",
+    "price": "paid",
+    "price_note": "$59.99 for macOS or Windows (Literature & Latte pricing page). One licence per platform.",
+    "description": "Long-form writing app with a binder, corkboard and compile tool for books.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "write",
+    "name": "Dabble",
+    "url": "https://www.dabblewriter.com/pricing",
+    "price": "paid",
+    "price_note": "$19/month (Writer) or $29/month (Author); $699 lifetime Author access. 14-day free trial.",
+    "description": "Novel-writing app with plot grid, goals and cloud sync.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "write",
+    "name": "Novelcrafter",
+    "url": "https://www.novelcrafter.com/pricing",
+    "price": "paid",
+    "price_note": "No free plan. 21-day free trial. See page for plan prices.",
+    "description": "Planning and writing tool for novelists, with optional AI features.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "write",
+    "name": "Reedsy Studio",
+    "url": "https://reedsy.com/studio",
+    "price": "freemium",
+    "price_note": "Core writing and formatting are free. Premium plans start at $4.99/month for extras like outlining and writing stats.",
+    "description": "Free online book editor that exports ebook and print files.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "write",
+    "name": "Sudowrite",
+    "url": "https://sudowrite.com/pricing",
+    "price": "paid",
+    "price_note": "Paid plans listed from $10 (see page for billing period). Free trial offered.",
+    "description": "AI writing assistant for fiction. You stay in control of the text.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "edit",
+    "name": "ProWritingAid",
+    "url": "https://prowritingaid.com/pricing",
+    "price": "freemium",
+    "price_note": "Free plan gives suggestions on 500 words at a time. Paid Premium plans and lifetime licences are on the pricing page.",
+    "description": "Grammar and style checker that works inside writing apps and in the browser.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "edit",
+    "name": "Grammarly",
+    "url": "https://www.grammarly.com/plans",
+    "price": "freemium",
+    "price_note": "Free plan available; Pro is paid (see page for current price).",
+    "description": "General grammar and spelling checker.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "edit",
+    "name": "Hemingway Editor",
+    "url": "https://hemingwayapp.com/",
+    "price": "paid",
+    "price_note": "Editor Plus is $100/year billed annually; desktop app $19.99 (Hemingway pages).",
+    "description": "Highlights long, hard-to-read sentences so your writing is easier to follow.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "format",
+    "name": "Vellum",
+    "url": "https://vellum.pub/",
+    "price": "paid",
+    "price_note": "Vellum Ebooks $199.99, Vellum Press $249.99, one-time. Upgrade between them $69.99 (Vellum store and help). Mac only.",
+    "description": "Makes polished ebook and print files from a manuscript. Runs on macOS only.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "format",
+    "name": "Kindle Previewer",
+    "url": "https://kdp.amazon.com/en_US/help/topic/G202131170",
+    "price": "free",
+    "price_note": "Free desktop app from Amazon.",
+    "description": "Shows how your ebook will look on Kindle devices before you publish.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "format",
+    "name": "Calibre",
+    "url": "https://calibre-ebook.com/",
+    "price": "free",
+    "price_note": "Free and open source (GPL-3.0).",
+    "description": "Ebook manager and converter. Handy for checking and converting ebook files.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "format",
+    "name": "Sigil",
+    "url": "https://sigil-ebook.com/",
+    "price": "free",
+    "price_note": "Free and open source (GPL-3.0).",
+    "description": "EPUB editor for fixing the code of your ebook by hand.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "format",
+    "name": "Pandoc",
+    "url": "https://pandoc.org/",
+    "price": "free",
+    "price_note": "Free and open source (GPL-2.0).",
+    "description": "Converts between document formats, such as Markdown to EPUB. Command line.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "design",
+    "name": "Affinity",
+    "url": "https://www.affinity.studio/",
+    "price": "free",
+    "price_note": "Free for individuals (per their page).",
+    "description": "Design apps for covers and interior graphics.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "design",
+    "name": "BookBrush",
+    "url": "https://bookbrush.com/pricing/",
+    "price": "freemium",
+    "price_note": "Free plan exists. Paid plans listed from $8.25/month billed yearly ($99).",
+    "description": "Makes book mockups, ads and social images.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "dist",
+    "name": "Amazon KDP",
+    "url": "https://kdp.amazon.com/en_US/help/topic/G200644210",
+    "price": "revenue-share",
+    "price_note": "Ebook royalty options of 35% or 70% depending on price and country (KDP royalties page).",
+    "description": "Amazon's self-publishing platform for ebooks and print.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "dist",
+    "name": "Kobo Writing Life",
+    "url": "https://www.kobo.com/us/en/p/writinglife",
+    "price": "revenue-share",
+    "price_note": "Free to publish. Earn up to 70% royalties. No exclusivity (Kobo page).",
+    "description": "Publish ebooks and audiobooks to Kobo stores.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "dist",
+    "name": "Apple Books for Authors",
+    "url": "https://authors.apple.com/",
+    "price": "revenue-share",
+    "price_note": "70% royalties on every ebook; no file delivery fees (Apple page).",
+    "description": "Publish ebooks directly to Apple Books.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "dist",
+    "name": "Google Play Books Partner Center",
+    "url": "https://play.google.com/books/publish/",
+    "price": "revenue-share",
+    "price_note": "70% revenue split in 60+ countries (Google page).",
+    "description": "Publish ebooks directly to Google Play Books.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "dist",
+    "name": "Draft2Digital",
+    "url": "https://www.draft2digital.com/faq/",
+    "price": "revenue-share",
+    "price_note": "One-time $20 activation fee, plus an annual $12 fee if you earn under $100 a year in sales, plus about 10% of retail price per sale (D2D FAQ).",
+    "description": "Distributes your ebook to many stores from one account.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "dist",
+    "name": "PublishDrive",
+    "url": "https://publishdrive.com/pricing.html",
+    "price": "freemium",
+    "price_note": "One ebook free to selected stores with no subscription or commission. Paid plans for more titles (see page).",
+    "description": "Distribution to stores and libraries, plus royalty tools.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "dist",
+    "name": "IngramSpark",
+    "url": "https://www.ingramspark.com/pricing",
+    "price": "paid",
+    "price_note": "Ebook royalty is 85% of net revenue; converting print to ebook costs $0.60/page (IngramSpark pricing page). See page for print fees.",
+    "description": "Print and ebook distribution into bookstores and libraries.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "dist",
+    "name": "Lulu",
+    "url": "https://www.lulu.com/sell/sell-on-lulu",
+    "price": "revenue-share",
+    "price_note": "Free to publish. You earn 80% after printing costs (Lulu page).",
+    "description": "Print on demand with its own store and shop integrations.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "dist",
+    "name": "Bowker Identifiers (ISBN)",
+    "url": "https://www.myidentifiers.com/get-your-isbn-now/self_publisher",
+    "price": "paid",
+    "price_note": "Single ISBN $125; 10 ISBNs $295 (Bowker page, US).",
+    "description": "Official US source for your own ISBNs.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "audio",
+    "name": "ACX",
+    "url": "https://www.acx.com/",
+    "price": "freemium",
+    "price_note": "Free ACX profile to find a narrator. Narration payment terms are set per title (see ACX).",
+    "description": "Marketplace to find a narrator and sell on Audible, Amazon and Apple.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "research",
+    "name": "Publisher Rocket",
+    "url": "https://publisherrocket.com/",
+    "price": "paid",
+    "price_note": "$199 one-time lifetime access (Publisher Rocket pricing section).",
+    "description": "Amazon keyword and category research for book authors.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "research",
+    "name": "KDSPY",
+    "url": "https://www.kdspy.com/",
+    "price": "paid",
+    "price_note": "$79 one-time (price shown on their page, described as a limited offer). 60-day money-back guarantee.",
+    "description": "Book niche and keyword research for Amazon.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "research",
+    "name": "Book Bolt",
+    "url": "https://bookbolt.io/pricing",
+    "price": "paid",
+    "price_note": "Entry plan about $9.99/month billed annually. 3-day free trial.",
+    "description": "Keyword research plus cover and interior design tools for low-content KDP books.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "market",
+    "name": "BookFunnel",
+    "url": "https://bookfunnel.com/pricing/",
+    "price": "paid",
+    "price_note": "Paid plans, with the lowest listed at $30/year (BookFunnel pricing page).",
+    "description": "Delivers ebooks and audiobooks to readers, for reader magnets and ARCs.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "market",
+    "name": "StoryOrigin",
+    "url": "https://storyoriginapp.com/pricing",
+    "price": "freemium",
+    "price_note": "Upgrade is $100/year per account (StoryOrigin page).",
+    "description": "Newsletter swaps, reader magnets and promos for authors.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "market",
+    "name": "Booksprout",
+    "url": "https://booksprout.co/pricing",
+    "price": "freemium",
+    "price_note": "Free plan to start building a review team. Paid plans listed from $9/month. Reviewers are always free.",
+    "description": "Finds advance readers to review your book.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "market",
+    "name": "BookBub Partners",
+    "url": "https://partners.bookbub.com/",
+    "price": "paid",
+    "price_note": "Featured Deals are a flat fee set by price, category and region. BookBub Ads use a CPM auction (BookBub help page).",
+    "description": "Promotions and ads aimed at BookBub's readers.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "direct",
+    "name": "BookFolio (by the maintainer)",
+    "url": "https://bookfolio-demo.pages.dev/guide",
+    "price": "freemium",
+    "price_note": "Free tier: one book and the first 25 newsletter signups. Pro is a paid upgrade; see the buy page for the current price.",
+    "description": "WordPress theme to sell your books from your own author website. Needs WooCommerce.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "direct",
+    "name": "Author Royalty Calculator (by the maintainer)",
+    "url": "https://github.com/devanasolver/author-royalty-calculator",
+    "price": "free",
+    "price_note": "Free and open source (MIT).",
+    "description": "Command-line tool that compares what you keep per sale on KDP, Kobo, Apple, B&N and your own site.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "oss",
+    "name": "ebook2audiobook",
+    "url": "https://github.com/DrewThomasson/ebook2audiobook",
+    "price": "free",
+    "price_note": "Free and open source (Apache-2.0). Check the voice and model licences before selling audiobooks.",
+    "description": "Turns ebooks into audio with local AI voices. Quality and rights depend on the model.",
+    "price_checked": "2026-10-17"
+  },
+  {
+    "category": "oss",
+    "name": "audiblez",
+    "url": "https://github.com/santinic/audiblez",
+    "price": "free",
+    "price_note": "Free and open source (MIT). Check the voice model licence before selling audio.",
+    "description": "Makes audiobooks from EPUB files with a local text-to-speech model.",
+    "price_checked": "2026-10-17"
+  }
+]

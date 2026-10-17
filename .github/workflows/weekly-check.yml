@@ -1,0 +1,26 @@
+name: Weekly check
+on:
+  schedule:
+    - cron: "41 3 * * 1"
+  workflow_dispatch:
+permissions:
+  contents: read
+  issues: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: README must match data
+        run: |
+          python scripts/build_readme.py
+          git diff --exit-code README.md
+      - name: Link and price-age report
+        run: python scripts/check_links.py | tee report.md
+      - name: Open issue if something needs a look
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if ! grep -q "^All links OK" report.md; then
+            gh issue create --title "Weekly check: findings ($(date +%F))" --body-file report.md
+          fi
