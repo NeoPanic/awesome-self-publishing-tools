@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Add Glim for viewing EPUB/PDF/Markdown drafts on macOS, with free-access evidence and EPUB preview limits.
 
 - New banner with logos, CTA, badges and follow buttons.
 
