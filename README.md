@@ -129,6 +129,7 @@ Free tools on GitHub. Check each licence and its limits.
 
 - [audiblez](https://github.com/santinic/audiblez) `free` - Makes audiobooks from EPUB files with a local text-to-speech model. **Price:** Free and open source (MIT). Check the voice model licence before selling audio.
 - [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) `free` - Turns ebooks into audio with local AI voices. Quality and rights depend on the model. **Price:** Free and open source (Apache-2.0). Check the voice and model licences before selling audiobooks.
+- [Glim (by the author)](https://github.com/NeoPanic/Glim) `free` - macOS viewer for EPUB text, PDFs and Markdown drafts; EPUB previews do not preserve publisher CSS or fixed layouts. **Price:** Free and MIT-licensed per the project's README (https://github.com/NeoPanic/Glim); no paid tier is listed.
 
 ## How to choose
 
