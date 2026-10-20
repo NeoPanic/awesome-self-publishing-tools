@@ -331,5 +331,14 @@
     "price_note": "Free and open source (MIT). Check the voice model licence before selling audio.",
     "description": "Makes audiobooks from EPUB files with a local text-to-speech model.",
     "price_checked": "2026-10-17"
+  },
+  {
+    "category": "oss",
+    "name": "Glim (by the author)",
+    "url": "https://github.com/NeoPanic/Glim",
+    "price": "free",
+    "price_note": "Free and MIT-licensed per the project's README (https://github.com/NeoPanic/Glim); no paid tier is listed.",
+    "description": "macOS viewer for EPUB text, PDFs and Markdown drafts; EPUB previews do not preserve publisher CSS or fixed layouts.",
+    "price_checked": "2026-10-21"
   }
 ]
